@@ -1,3 +1,3 @@
-# anz_project
+# Banking Data Understanding & EDA
 
 
